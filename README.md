@@ -17,8 +17,8 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/discord-delete-tool
-cd discord-delete-tool
+git clone https://github.com/Osayuk1/discord-mass-deleter
+cd discord-mass-deleter
 ```
 
 2. Run the script:
@@ -44,6 +44,10 @@ End date:   2025-05-10
 ## 📁 Output
 
 All deleted message IDs and contents will be logged to `deleted_messages_log.json`.
+
+## 📎 GitHub
+
+Repo: [https://github.com/Osayuk1/discord-mass-deleter](https://github.com/Osayuk1/discord-mass-deleter)
 
 ## ⚠️ Disclaimer
 
